@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75017513413",
+    "project_id": "sayim-kontrol-15118",
+    "storage_bucket": "sayim-kontrol-15118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75017513413:android:916dec423733bdac0603ac",
+        "android_client_info": {
+          "package_name": "com.sayim.dokum_cetveli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75017513413-od7e3nqmsg04rbba6937rah6qa1k60a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCkbdZVbuvoIjfy7Ob4BkygFXiQll7BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75017513413-od7e3nqmsg04rbba6937rah6qa1k60a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
